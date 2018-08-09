@@ -28,7 +28,7 @@
 				<key>selectionBorder</key>
 				<string>#222218</string>
 				<key>activeGuide</key>
-				<string>#9D550FB0</string>
+				<string>#851</string>
 				<key>bracketsForeground</key>
 				<string>#F8F8F2A5</string>
 				<key>bracketsOptions</key>
@@ -62,7 +62,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f1fa8c</string>
+				<string>#CDB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -369,7 +369,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#2E5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -398,7 +398,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6DB74</string>
+				<string>#CADEBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -407,7 +407,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F83333</string>
+				<string>#E22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -429,7 +429,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8be9fd</string>
+				<string>#4BD</string>
 			</dict>
 		</dict>
 		<dict>

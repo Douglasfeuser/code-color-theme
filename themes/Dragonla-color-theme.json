@@ -1,12 +1,12 @@
 {
 	"tokenColors": "./Dragonla.tmTheme",
 	"colors": {
-		"editor.background": "#202020",
+		"editor.background": "#0c0c0c",
 		"editorCursor.foreground": "#f8f8f0",
 		"editor.foreground": "#f8f8f2",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#353535",
-		"editor.selectionBackground": "#44475a"
+		"editor.selectionBackground": "#3b353b"
 	},
 	"name": "Dragonla"
 }
