@@ -1,0 +1,22 @@
+{
+    "name": "dragonla",
+    "displayName": "Dragonla",
+    "description": "Theme for dragonla",
+    "version": "0.0.1",
+    "publisher": "Deuser",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dragonla",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dragonla-color-theme.json"
+            }
+        ]
+    }
+}
